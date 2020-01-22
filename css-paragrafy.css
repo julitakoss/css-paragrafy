@@ -1,0 +1,65 @@
+.background{
+    background-color: lightblue;
+}
+.p1{
+    height: 100px;
+    width: 100px;
+    position: relative;  
+    background-color:lightgoldenrodyellow ;
+}
+.p2{
+    height: 100px;
+    width: 100px;
+    position: relative;  
+    background-color:lightgoldenrodyellow ;
+}
+.p3{
+    height: 100px;
+    width: 100px;
+    opacity: 0.3;
+    position: relative;  
+    background-color:lightgoldenrodyellow ;
+}
+.p4{
+    height: 100px;
+    width: 100px;
+    position: relative;  
+    background-color: midnightblue;
+}
+.p5{
+    height: 100px;
+    width: 100px;
+    position: relative;  
+    background-color:lightgoldenrodyellow ;
+}
+.p6{
+    height: 100px;
+    width: 100px;
+    position: relative;  
+    background-color: limegreen;
+}
+.p7{
+    height: 100px;
+    width: 100px;
+    opacity: 0.5;
+    position: relative;  
+    background-color:lightgoldenrodyellow ;
+}
+.p8{
+    height: 100px;
+    width: 100px;
+    position: relative;  
+    background-color:lightgoldenrodyellow ;
+}
+.p9{
+    height: 100px;
+    width: 100px;
+    position: relative;  
+    background-color:lightgoldenrodyellow ;
+}
+.p10{
+    height: 100px;
+    width: 100px;
+    position: relative;  
+    background-color: lightcoral;
+}
