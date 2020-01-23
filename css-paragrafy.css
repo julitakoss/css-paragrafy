@@ -1,55 +1,25 @@
 .background{
     background-color: lightsalmon;
 }
-.p1{
+.almostall{
     width: 100px;
     height: 100px;
-    background-color: lime;
 }
-.p2{
-    width: 100px;
-    height: 100px;
-    background-color: lime;
-}
-.p3{
-    width: 100px;
-    height: 100px;
+.almostallcolor{
     background-color: lime;
 }
 .p4{
-    width: 100px;
-    height: 100px;
     background-color: mediumvioletred;
 }
 .p5{
-    width: 100px;
-    height: 100px;
     background-color: magenta;
 }
 .p6{
-    width: 100px;
-    height: 100px;
-    background-color: lime;
+    background-color: darkorchid;
 }
 .p7{
-    width: 100px;
-    height: 100px;
     opacity: 0.75;
-    background-color: lime;
 }
 .p8{
-    width: 100px;
-    height: 100px;
     opacity: 0.5;
-    background-color: lime;
-}
-.p9{
-    width: 100px;
-    height: 100px;
-    background-color: lime;
-}
-.p10{
-    width: 100px;
-    height: 100px;
-    background-color: lime;
 }
